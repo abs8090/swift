@@ -1,3 +1,5 @@
 import UIKit
 
-var str = "Hello, playground"
+let driving = {
+    print("I'm driving my Elentra")
+}
